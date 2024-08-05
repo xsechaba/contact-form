@@ -34,8 +34,7 @@ This repository serves as a **demo** and instructional guide for setting up a co
 - `Setup_Guide.md`: Complete setup guide, from deployment to configuration of each component.
 - `Troubleshooting.md`: Troubleshooting document addressing common issues and solutions.
 
-### `/extras`
-- `Postman_Collection.json`: A Postman collection file for testing API endpoint configurations.
+### `/visuals`
 - `Screenshots`: Visual aids depicting expected outcomes.
 
 Thank you for visiting this repository. For any further questions or feedback, please open an issue in the GitHub issue tracker.
