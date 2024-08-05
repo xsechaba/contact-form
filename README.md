@@ -1,5 +1,5 @@
 # AWS Integrated Contact Form Demo
-
+![outcome](visuals/results.png)
 ## Project Overview
 
 This project demonstrates a contact form integrated with various AWS services to create a serverless architecture. The purpose is to showcase a seamless way of handling form submissions using AWS technologies, ensuring scalability, reliability, and efficiency. This repository is designed as a stand-alone demo to focus on the specific components of this setup, abstracting from the broader context of a full website.
